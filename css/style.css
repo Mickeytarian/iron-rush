@@ -299,6 +299,7 @@ a.social-btn:hover { color: #bd9213 }
 	clear: both;
 	max-width: 960px;
 	padding: 20px 0;
+	overflow: hidden;
 }
 
 .col-w960 { width: 960px; margin-bottom: 40px }
